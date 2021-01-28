@@ -1,7 +1,7 @@
 # iOS_Back_10
 Every ViewController except of Table and Navigation
 
-    // to be continued...
+to be continued...
 
 
 * Share, 分享功能
