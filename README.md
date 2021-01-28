@@ -10,6 +10,8 @@ to be continued...
 
 * Internet, 開網頁
 
+  https://github.com/QueenieCplusplus/iOS_Back_10_Safari
+
 * Calenadr, 月曆彈出框
 
 * Picture in Picture, 圖中圖
