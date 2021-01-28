@@ -20,6 +20,8 @@ to be continued...
 
 * Alert, 提醒
 
+  https://github.com/QueenieCplusplus/iOS_Back_9/blob/main/ViewController.swift
+
 * Log in, 登入訊息框
 
 * Search Bar, 搜索器
