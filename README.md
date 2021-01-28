@@ -14,7 +14,7 @@ Every ViewController except of Table and Navigation
 
   https://github.com/QueenieCplusplus/iOS_Back_10_Calendar
 
-* Alert, 提醒
+* Alert, 警示提醒
 
   https://github.com/QueenieCplusplus/iOS_Back_9/blob/main/ViewController.swift
 
