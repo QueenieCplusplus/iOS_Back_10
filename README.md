@@ -24,6 +24,12 @@ to be continued...
 
 * Log in, 登入訊息框
 
+  同 Alert, 並且多加入文字輸入框。
+  
+      let alert = UIAlertController(title:"", message:"", preferredStyle: .alert)
+      alert.addTextField(()->void)
+      present(alert, animated: true, completion: nil)
+
 * Search Bar, 搜索器
 
 
