@@ -32,7 +32,7 @@ Every ViewController except of Table and Navigation
   
 * Picture in Picture, 子母畫面
 
-  to be continued...
+  https://github.com/QueenieCplusplus/iOS_Back_10_Video
 
   
   
