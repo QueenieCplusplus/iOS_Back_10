@@ -1,8 +1,6 @@
 # iOS_Back_10
 Every ViewController except of Table and Navigation
 
-to be continued...
-
 
 * Share, 分享功能
 
@@ -15,8 +13,6 @@ to be continued...
 * Calenadr, 月曆彈出框
 
   https://github.com/QueenieCplusplus/iOS_Back_10_Calendar
-
-* Picture in Picture, 圖中圖
 
 * Alert, 提醒
 
@@ -31,6 +27,15 @@ to be continued...
       present(alert, animated: true, completion: nil)
 
 * Search Bar, 搜索器
+
+  to be continued...
+  
+* Picture in Picture, 圖中圖
+
+  to be continued...
+
+  
+  
 
 
 
