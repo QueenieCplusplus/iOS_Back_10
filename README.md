@@ -30,7 +30,7 @@ Every ViewController except of Table and Navigation
 
   to be continued...
   
-* Picture in Picture, 圖中圖
+* Picture in Picture, 子母畫面
 
   to be continued...
 
