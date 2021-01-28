@@ -28,6 +28,8 @@ Every ViewController except of Table and Navigation
   
 * Picture in Picture, 子母畫面
 
+  愛鳳只有 Plus 型號或是平板設備可以展示 PIP 畫面，而安卓是不分機型都可顯示。
+
   https://github.com/QueenieCplusplus/iOS_Back_10_Video
   
 
