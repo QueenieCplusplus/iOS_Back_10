@@ -25,14 +25,14 @@ Every ViewController except of Table and Navigation
       let alert = UIAlertController(title:"", message:"", preferredStyle: .alert)
       alert.addTextField(()->void)
       present(alert, animated: true, completion: nil)
-
-* Search Bar, 搜索器
-
-  to be continued...
   
 * Picture in Picture, 子母畫面
 
   https://github.com/QueenieCplusplus/iOS_Back_10_Video
+  
+* Search Bar, 搜索器
+
+  to be continued...
 
   
   
