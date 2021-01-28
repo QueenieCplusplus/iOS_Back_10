@@ -30,9 +30,7 @@ Every ViewController except of Table and Navigation
 
   https://github.com/QueenieCplusplus/iOS_Back_10_Video
   
-* Search Bar, 搜索器
 
-  to be continued...
 
   
   
